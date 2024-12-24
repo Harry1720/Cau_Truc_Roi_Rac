@@ -36,6 +36,7 @@
 - *Chuyên đề Học Tập Toán 11* (Chuyên đề 2), Bộ sách Kết nối tri thức & Chân trời sáng tạo, NXB Giáo dục Việt Nam.
 - Một số nguồn tham khảo khác trên Internet & ChatGPT.
 ***
-+ Đây là tài liệu **chỉ dành cho mục đích học tập**, tham khảo, được thực hiện & sao chép từ nhiều nguồn tài liệu khác nhau, cũng như kiến thức tổng hợp được từ tác giả. Một số nội dung có thể chưa chính xác do sai sót chủ quan & khách quan của người soạn.
-+ Vui lòng không sử dụng tài liệu này cho mục đích thương mại!
++ Đây là tài liệu **chỉ dành cho mục đích học tập**, tham khảo, được thực hiện bởi việc sao chép từ nhiều nguồn tài liệu khác nhau, cũng như từ sự tổng hợp kiến thức của tác giả.
++ *Một số nội dung có thể chưa chính xác do sai sót chủ quan & khách quan của người soạn.*
++ **Vui lòng không sử dụng tài liệu này cho mục đích thương mại!**
 + Hy vọng bạn học được những điều thú vị từ tài liệu này!
