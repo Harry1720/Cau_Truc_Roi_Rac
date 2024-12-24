@@ -8,10 +8,10 @@
 - **Chương 4:** Quan hệ
 - **Chương 5:** Đại số Boole và Hàm Boole
 ***
++ **Lưu ý:** Tài liệu thuộc khổ A5.
 ## Tài liệu tham khảo
 *Đã ghi trong tài liệu*
-***
-**Lưu ý:** Tài liệu thuộc khổ A5.
+
 ***
 ## Lý thuyết đồ thị (Graph Theory)
 ***
