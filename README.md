@@ -9,7 +9,7 @@
 - **Chương 5:** Đại số Boole và Hàm Boole
 ***
 + **Lưu ý:** Tài liệu thuộc khổ A5.
-## Tài liệu tham khảo
+### Tài liệu tham khảo
 *Đã ghi trong tài liệu*
 
 ***
@@ -23,7 +23,7 @@
 - **Chương 6:** Bài toán tìm đường đi ngắn nhất
 - **Chương 7:** Luồng cực đại trong mạng
 ***
-## Tài liệu tham khảo
+### Tài liệu tham khảo
 - Tập các Slides bài giảng Lý thuyết đồ thị - Trường Đại học Giao thông Vận tải TP.HCM - Khoa CNTT.
 - Tập các Slides bài giảng & tài liệu về Đồ thị thuộc Đại học Quốc Gia TP.HCM.
 - Một số Slides về Đồ thị của GV Nguyễn Đức Nghĩa - Bộ môn KHMT, ĐHBK Hà Nội.
