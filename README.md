@@ -1,6 +1,19 @@
-# Lý thuyết đồ thị (Graph Theory)
+# Tài liệu Cấu trúc rời rạc
 ***
-Thuộc phạm vi môn Cấu trúc rời rạc (Tiếp nối học phần Toán rời rạc)
+## Toán rời rạc (Discrete Mathematics)
+***
+- **Chương 1:** Cơ sở Logic
+- **Chương 2:** Phương pháp đếm
+- **Chương 3:** Số nguyên
+- **Chương 4:** Quan hệ
+- **Chương 5:** Đại số Boole và Hàm Boole
+***
+## Tài liệu tham khảo
+*Đã ghi trong tài liệu*
+***
+**Lưu ý:** Tài liệu thuộc khổ A5.
+***
+## Lý thuyết đồ thị (Graph Theory)
 ***
 - **Chương 1:** Các khái niệm cơ bản
 - **Chương 2:** Biểu diễn đồ thị trên máy tính
@@ -23,5 +36,6 @@ Thuộc phạm vi môn Cấu trúc rời rạc (Tiếp nối học phần Toán 
 - *Chuyên đề Học Tập Toán 11* (Chuyên đề 2), Bộ sách Kết nối tri thức & Chân trời sáng tạo, NXB Giáo dục Việt Nam.
 - Một số nguồn tham khảo khác trên Internet & ChatGPT.
 ***
-Đây là tài liệu chỉ dành cho mục đích học tập, tham khảo. Một số nội dung có thể chưa chính xác do sai sót chủ quan & khách quan của người soạn.
-Vui lòng không sử dụng tài liệu này cho mục đích thương mại!
++ Đây là tài liệu **chỉ dành cho mục đích học tập**, tham khảo, được thực hiện & sao chép từ nhiều nguồn tài liệu khác nhau, cũng như kiến thức tổng hợp được từ tác giả. Một số nội dung có thể chưa chính xác do sai sót chủ quan & khách quan của người soạn.
++ Vui lòng không sử dụng tài liệu này cho mục đích thương mại!
++ Hy vọng bạn học được những điều thú vị từ tài liệu này!
