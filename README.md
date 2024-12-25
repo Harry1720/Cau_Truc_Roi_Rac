@@ -9,9 +9,8 @@
 - **Chương 5:** Đại số Boole và Hàm Boole
 - **Đề kiểm tra giữa kỳ và cuối kỳ (K22 - UTH) năm 2022 - 2023 có đáp án**
 ***
-+ **Lưu ý:** Tài liệu thuộc khổ A5.
 ### Tài liệu tham khảo
-*Đã ghi trong tài liệu*
+- *Đã ghi trong tài liệu*
 
 ***
 ## Lý thuyết đồ thị (Graph Theory)
